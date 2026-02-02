@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/Email-stefanski.dawid%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:stefanski.dawid@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dawid-stefanski-145625256)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -118,19 +117,6 @@ me = DataAnalyst()
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -182,13 +168,6 @@ me = DataAnalyst()
 
 ---
 
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph" width="100%">
-</div>
-
----
 
 ## 🌐 Let's Connect!
 
@@ -200,8 +179,7 @@ me = DataAnalyst()
 <br/>
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:stefanski.dawid@proton.me)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawid-stefanski-145625256)
 
 <br/>
 
@@ -211,30 +189,3 @@ me = DataAnalyst()
 🇳🇴 **Norwegian** - A1 (Elementary)
 
 </div>
-
----
-
-<div align="center">
-
-### 🐍 Watch my contribution graph get eaten by the snake!
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**⭐️ From [Dawid Stefański](https://github.com/YOUR_USERNAME) - Building the future, one line of code at a time**
-
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
-
-</div>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
