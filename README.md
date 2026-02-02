@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **stefan3123/stefan3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Email-stefanski.dawid%40proton.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:stefanski.dawid@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/dawid-stefański-145625256](https://www.linkedin.com/in/dawid-stefański-145625256/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/dawid-stefański-145625256](www.linkedin.com/in/dawid-stefanski-145625256)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
