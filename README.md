@@ -117,19 +117,6 @@ me = DataAnalyst()
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🏅 Achievement | 🎯 Event | 📅 Year |
-|:--------------|:---------|:--------|
-| 🥈 **2nd Place** | Consult IT Warsaw (3-stage national competition) | 2025 |
-| 🎖️ **Finalist** | HackNation - Ministry of Education | 2025 |
-| 🎖️ **Finalist** | Consult IT Warsaw | 2024 |
-| 🥈 **2nd Place** | BKI Hack - 24h Hackathon | 2024 |
-| 🎖️ **Finalist** | Minisumo Competition - Autonomous Robotics | 2022 |
-
-</div>
 
 ### 📜 Certifications
 
